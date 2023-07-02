@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KPrasadA/Krishnaprasad_Portfolio.git/static/css/main.c029aa84.css",
+    "main.js": "/KPrasadA/Krishnaprasad_Portfolio.git/static/js/main.5ad66db4.js",
+    "static/media/MyImage.jpg": "/KPrasadA/Krishnaprasad_Portfolio.git/static/media/MyImage.d40426c27de11409c493.jpg",
+    "index.html": "/KPrasadA/Krishnaprasad_Portfolio.git/index.html",
+    "main.c029aa84.css.map": "/KPrasadA/Krishnaprasad_Portfolio.git/static/css/main.c029aa84.css.map",
+    "main.5ad66db4.js.map": "/KPrasadA/Krishnaprasad_Portfolio.git/static/js/main.5ad66db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c029aa84.css",
+    "static/js/main.5ad66db4.js"
+  ]
+}
